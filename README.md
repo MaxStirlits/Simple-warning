@@ -33,9 +33,16 @@ crontab -e
 
 Add string to crontab.
 
+
 */10 * * * * /home/<user>/mysql.sh
   
  save crontab and use.
+ 
+ 
+ 
+ <h2> Debug  </h2>
+ 
+ Remove  <b> > /dev/null 2>&1 </b> , run ./script , and see output in console.
   
   
 
