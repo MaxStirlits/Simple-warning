@@ -7,7 +7,7 @@ Receive Telegram messages from your computer.
 
 Invite @BotFather in Telegram , make /newbot and get token to access the HTTP API. 
 Example: <b>1426400111:AAEuS4000x6ysmMqRyUgp5333puTttx2444</b>
-Go to a new bot and add @getmyid_bot, go to bot link and /start get ID.
+Go to a new bot and add @getmyid_bot, go to bot link and /start to get ID.
 
 <h3>2. Edit script code</h3>
 
