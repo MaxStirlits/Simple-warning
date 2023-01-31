@@ -34,7 +34,7 @@ crontab -e
 Add string to crontab.
 
 
-*/10 * * * * /home/<user>/mysql.sh
+*/10 * * * * /home/user/mysql.sh
   
  save crontab and use.
  
